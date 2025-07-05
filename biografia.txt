@@ -1,0 +1,2 @@
+Hola a todos, aqui se mostraran evidencias en lo que uno esta avanzado, este es el primer verso.
+Aqui se mostrara otro ejemplo, este es el segundo verso en git, estoy feliz de estar mostrando mi experiencia en una empresa.
